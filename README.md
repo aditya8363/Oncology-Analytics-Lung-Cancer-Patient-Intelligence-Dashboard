@@ -1,0 +1,2 @@
+# Oncology-Analytics-Lung-Cancer-Patient-Intelligence-Dashboard
+This project presents an advanced Power BI dashboard designed to analyze lung cancer patient data and uncover meaningful clinical, demographic, and lifestyle-related insights. The dashboard focuses on understanding disease progression, patient survival patterns, treatment pathways, and risk factors to support data-driven healthcare decision-making.
